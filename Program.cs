@@ -87,8 +87,10 @@ namespace TokenAnalyzer
 
         static void Main(string[] args)
         {
-            // analyzeTweet("#المنيع_في_ليوان_المديفر @may___od368_ Replying to #المنيع_وان_المديفر@___mayod368 يلا اهمشي@mayod368في النهاية تعاد @_mayo_d368_");
-            analyzeTweet("#BREAKING: Custodian of the Two Holy Mosques King Salman receives a phone call from the Turkish president Recep Tayyip Erdogan, exchange #Ramadan greeting @ #");
+            
+            analyzeTweet("THE 2021 #LEC SPRING CHAMPIONS: 
+@MADLions_LoLEN
+!");
 
         }
     }
